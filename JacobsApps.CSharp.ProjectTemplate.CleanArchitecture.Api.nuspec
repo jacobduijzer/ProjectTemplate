@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id></id>
+    <version>0.0.1</version>
+    <description>
+	Creates an empty .NET WebApi project with tests, specs, dockerfile, logging and tracing. 
+    </description>
+    <releaseNotes>Initial release, empty project</releaseNotes>
+    <authors>Jacob Duijzer</authors>
+    <projectUrl>https://github.com/jacobduijzer/ProjectTemplate</projectUrl>
+    <license type="expression">MIT</license>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <tags>csharp cleanarchitecture template project dotnet net6</tags>
+  </metadata>
+  <files>
+    <file src=".\src\**" target="content" exclude="*.nuspec;**\bin\**;**\obj\**;**\.vs\**;**\*.user;**\.idea\**"/>
+    <file src=".\src\.template.config\template.json" target="content\.template.config\template.json"/>
+  </files>
+</package>
