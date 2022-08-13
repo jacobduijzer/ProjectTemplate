@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Jacob Duijzer",
+  "classifications": ["Api", "Clean Architecture Project"],
+  "identity": "JacobsApps.CSharp.ProjectTemplate.CleanArchitecture.Api",
+  "name": "Clean Architecture Project Template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "shortName": "projecttemplate",
+  "sourceName": "ProjectTemplate",
+  "preferNameDirectory": true,
+  "sources": [ {
+    "source": "./"
+  } ]
+}
