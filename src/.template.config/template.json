@@ -8,8 +8,8 @@
     "language": "C#",
     "type": "project"
   },
-  "shortName": "projecttemplate",
-  "sourceName": "ProjectTemplate",
+  "shortName": "fullapiproject",
+  "sourceName": "FullApiProject",
   "preferNameDirectory": true,
   "sources": [ {
     "source": "./"
