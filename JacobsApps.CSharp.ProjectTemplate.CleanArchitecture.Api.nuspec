@@ -2,11 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>JacobsApps.CSharp.ProjectTemplate.CleanArchitecture.Api</id>
-    <version>0.0.1</version>
+    <version>0.0.4</version>
     <description>
 	Creates an empty .NET WebApi project with tests, specs, dockerfile, logging and tracing. 
     </description>
-    <releaseNotes>Initial release, empty project</releaseNotes>
+    <releaseNotes>Changed the dotnet new projecttemplate to dotnet new fullapiproject.</releaseNotes>
     <authors>Jacob Duijzer</authors>
     <projectUrl>https://github.com/jacobduijzer/ProjectTemplate</projectUrl>
     <license type="expression">MIT</license>
