@@ -13,14 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Restore
-        run: dotnet restore src/ProjectTemplate.sln
-
-      - name: Test
-	run: dotnet build --no-restore src/ProjectTemplate.sln
-
-      - name: Build
-	run: dotnet test --no-build src/ProjectTemplate.sln
+    
+    - uses: actions/checkout@v3
+    
+    - name: Restore
+      run: dotnet restore src/ProjectTemplate.sln
+      
+    - name: Test
+      run: dotnet build --no-restore src/ProjectTemplate.sln
+      
+    - name: Build
+      run: dotnet test --no-build src/ProjectTemplate.sln
           
