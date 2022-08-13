@@ -24,6 +24,7 @@ jobs:
       - name: Setup NuGet.exe for use with actions
         uses: NuGet/setup-nuget@v1.0.6
         with:
+          nuget-version: '5.x'
           nuget-api-key: ${{ secrets.NUGET_API_KEY }}
           
       - name: Create nuget package
