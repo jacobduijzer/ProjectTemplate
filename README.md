@@ -1,4 +1,4 @@
-[![Nuget status](https://buildstats.info/nuget/JacobsApps.CleanArchitectureProjectTemplate.CSharp?includePreReleases=false)](https://www.nuget.org/packages/JacobsApps.CleanArchitectureProjectTemplate.CSharp/)
+[![Nuget status](https://buildstats.info/nuget/JacobsApps.CSharp.ProjectTemplate.CleanArchitecture.Api?includePreReleases=false)](https://www.nuget.org/packages/JacobsApps.CSharp.ProjectTemplate.CleanArchitecture.Api/
 
 # ProjectTemplate
 
