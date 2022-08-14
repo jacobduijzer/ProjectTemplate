@@ -1,3 +1,5 @@
+[![Nuget status](https://buildstats.info/nuget/JacobsApps.CleanArchitectureProjectTemplate.CSharp?includePreReleases=false)](https://www.nuget.org/packages/JacobsApps.CleanArchitectureProjectTemplate.CSharp/)
+
 # ProjectTemplate
 
 A project template for .Net projects.
