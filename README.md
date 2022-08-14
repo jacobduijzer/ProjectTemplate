@@ -1,3 +1,4 @@
+[![Build and test](https://github.com/jacobduijzer/ProjectTemplate/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/jacobduijzer/ProjectTemplate/actions/workflows/build-and-test.yml)
 [![Create and push NuGet package](https://github.com/jacobduijzer/ProjectTemplate/actions/workflows/create-and-push-nuget-package.yml/badge.svg)](https://github.com/jacobduijzer/ProjectTemplate/actions/workflows/create-and-push-nuget-package.yml)
 [![Nuget status](https://buildstats.info/nuget/JacobsApps.CSharp.ProjectTemplate.CleanArchitecture.Api?includePreReleases=false)](https://www.nuget.org/packages/JacobsApps.CSharp.ProjectTemplate.CleanArchitecture.Api/)
 
